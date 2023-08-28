@@ -1,0 +1,61 @@
+.Cash-Card{
+  background-color: #150b3e;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 300px;
+  border-radius: 15px;
+}
+.cash-withdrawal-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Name-container{
+  display: flex;
+}
+.s-logo{
+  border-radius: 50%;
+  background-color: #c7d2fe;
+  text-align: center;
+  padding:25px;
+}
+.Name{
+  color:#c7d2fe;
+  margin-left:10px;
+  text-align: center;
+  align-self: center;
+}
+.Amount-card{
+  display: flex;
+  flex-direction: row;
+
+}
+.Amount-details{
+  align-self: flex-end;
+  margin-left:45px;
+}
+.balance-item{
+  color: #585076
+}
+.Amount{
+  color: white;
+}
+.Withdraw-heading{
+  color: white;
+  font-size:20px;
+}
+.choose-paragraph{
+  color: #585076;
+  font-size:15px;
+}
+.card-button{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   padding-top: 10px;
+   width:95%;
+}
